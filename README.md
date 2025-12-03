@@ -87,7 +87,6 @@ Server administrators and community managers need to track boost levels across m
 - 🚀 **Cached Data** - Level info cached in memory to avoid repeated allocations
 - 📝 **Efficient Strings** - Optimized progress bar generation
 
-> 📖 See [PERFORMANCE_OPTIMIZATIONS.md](PERFORMANCE_OPTIMIZATIONS.md) for detailed performance analysis.
 
 ---
 
@@ -482,7 +481,6 @@ class CustomIntervalBot(BoostNotificationBot):
 | `run_bot.bat` | Windows batch script launcher |
 | `requirements.txt` | Python dependencies |
 | `README.md` | This documentation |
-| `PERFORMANCE_OPTIMIZATIONS.md` | Detailed performance analysis |
 | `data/boost_data.json` | Stored boost level data (auto-generated) |
 | `.env` | Configuration file (create this) |
 
